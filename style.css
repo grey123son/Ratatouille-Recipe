@@ -115,8 +115,7 @@ body{
 }
 
 #ratatouilleIntroImg2{
-  height:35%;
-  width:35%;
+  height:200px;
   border-radius:20px;
 }
 
@@ -128,8 +127,7 @@ body{
 #ratatouilleIntroImg3{
   margin-bottom: 0px;
   border-radius:20px;
-  height:100%;
-  width:100%;
+  height:200px;
   padding: 12px;
   background: radial-gradient(#457DD1, #6DA4F7);
 }
